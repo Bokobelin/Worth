@@ -1,2 +1,2 @@
 # Worth
-A new programming language.
+A new programming language in Python.

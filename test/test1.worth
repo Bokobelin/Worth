@@ -1,0 +1,6 @@
+x = 5
+y = 15
+print x
+print y
+sub y, x, z
+print z
